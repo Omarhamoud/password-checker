@@ -1,0 +1,9 @@
+{
+  "name": "password-checker-netlify",
+  "version": "1.0.1",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "zxcvbn": "^4.4.2"
+  }
+}
